@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amarjeet-Kumar1, Civil Enginnering student at MIT Muzaffarpur
-- 👀 I’m interested in programming and android app development.
-- 🌱 I’m currently learning android app development
+- 👀 I’m interested in programming and full stack web development.
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
