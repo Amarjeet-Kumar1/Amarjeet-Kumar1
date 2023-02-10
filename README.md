@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Amarjeet-Kumar1, Civil Enginnering student at MIT Muzaffarpur
+- 👋 Hi, I’m @Amarjeet-Kumar1, undergraduate at MIT Muzaffarpur
 - 👀 I’m interested in programming and full stack web development.
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
